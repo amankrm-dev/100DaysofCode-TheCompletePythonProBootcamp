@@ -1,0 +1,35 @@
+type: marketplace
+title: 100 Days of Code - The Complete Python Pro Bootcamp
+language: English
+summary: |-
+  The companion to the best-selling 100 Days of Code - The Complete Python Pro Bootcamp by Angela Yu on Udemy
+
+  Link to full course:
+  https://www.udemy.com/course/100-days-of-code/
+programming_language: Python
+environment: unittest
+content:
+  - Day 1
+  - Day 2
+  - Day 3
+  - Day 4
+  - Day 5
+  - Day 6
+  - Day 7
+  - Day 8
+  - Day 9
+  - Day 10
+  - Day 11
+  - Day 12
+  - Day 13
+  - Day 14
+  - Day 15
+  - Day 16-100
+additional_files:
+  - name: .idea/inspectionProfiles/Default.xml
+  - name: .idea/inspectionProfiles/Project_Default.xml
+  - name: .idea/inspectionProfiles/profiles_settings.xml
+  - name: Day 3/__init__.py
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/25212-100-days-of-code--the-complete-python-pro-bootcamp/reviews
+yaml_version: 2
