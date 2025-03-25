@@ -9,9 +9,6 @@ files:
   - name: art.py
     visible: true
     learner_created: false
-status: Unchecked
-feedback:
-  message: Local check isn't available
-  time: "Tue, 11 Mar 2025 01:20:06 UTC"
+status: Solved
 record: -1
 post_submission_on_open: true
