@@ -22,7 +22,7 @@ def play_game():
     elif level=="hard":
         attempts=5
     else:
-        print("Invalid Level Choosen ! Please Choose From the Given Options correctly")
+        print("Invalid Level Chosen! Please Choose From the Given Options correctly")
         exit()
     while attempts:
         print(f"You have {attempts} attempts remaining to guess the number.")
