@@ -15,5 +15,8 @@ files:
   - name: solution.py
     visible: true
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 08 Apr 2025 08:21:11 UTC"
 record: -1

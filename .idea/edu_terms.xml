@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="17794002">
+                <value>
+                  <list>
+                    <Term value="len()" definition="In Python, the len() function is used to get the length of a list (number of items) or the length of a string (number of characters)." />
+                    <Term value="IndexError" definition="IndexError occurs when you try to access an item that is not in the range of the list." />
+                    <Term value="Nested Lists" definition="A Nested List, also known as a 2D List, is a list that contains other lists as its elements." />
+                    <Term value="Nested List" definition="A Nested List, also known as a 2D List, is a list that contains other lists as its elements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="17794004">
+                <value>
+                  <list>
+                    <Term value="Pseudorandom Number Generators" definition="Pseudorandom Number Generators are algorithms used by computers to mimic randomness, as computers are inherently not random." />
+                    <Term value="pseudorandom number generators" definition="Pseudorandom Number Generators are algorithms used by computers to mimic randomness, as computers are inherently not random." />
+                    <Term value="random.randint" definition="In Python, `random.randint(a, b)` generates a random whole number between the integers a and b, inclusive." />
+                    <Term value="random.random" definition="In Python, `random.random()` generates a random floating-point number between 0.0 (inclusive) and 1.0 (not inclusive)." />
+                    <Term value="random.uniform" definition="In Python, `random.uniform(a, b)` generates a random floating-point number between the given numbers a and b, where the upper bound b may or may not be included." />
+                    <Term value="module in Python" definition="Modules in Python allow you to organize code into different files and reuse them by using the `import` keyword. A module is simply a Python file with a '.py' extension." />
+                    <Term value="Modules in Python" definition="Modules in Python allow you to organize code into different files and reuse them by using the `import` keyword. A module is simply a Python file with a '.py' extension." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="17794006">
+                <value>
+                  <list>
+                    <Term value="function" definition="A function is a named block of code designed to execute specific tasks when called. It helps save time and reduce repeated code." />
+                    <Term value="Function" definition="A function is a named block of code designed to execute specific tasks when called. It helps save time and reduce repeated code." />
+                    <Term value="def" definition="In Python, 'def' is a keyword used to define a new function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="17794007">
+                <value>
+                  <list>
+                    <Term value="Loops" definition="Loops allow us to tell the computer to repeat actions without having to write repeated code." />
+                    <Term value="Indentation" definition="In Python programming, indentation is required after the `:` symbol and determines the structure and behavior of the code." />
+                    <Term value="indentation" definition="In Python programming, indentation is required after the `:` symbol and determines the structure and behavior of the code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="195716625">
+                <value>
+                  <list>
+                    <Term value="Multiple Inputs" definition="You can have multiple inputs in functions. All you need to do is separate them with a comma `,`." />
+                    <Term value="multiple inputs" definition="You can have multiple inputs in functions. All you need to do is separate them with a comma `,`." />
+                    <Term value="Positional Arguments" definition="By default, when you create a function in Python, it will keep the order of arguments in the function definition." />
+                    <Term value="Keyword Arguments" definition="You can use keywords when you provide the arguments when you call a function so that there is less confusion which value is assigned to which input parameter." />
+                    <Term value="keyword arguments" definition="You can use keywords when you provide the arguments when you call a function so that there is less confusion which value is assigned to which input parameter." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="199568011">
+                <value>
+                  <list>
+                    <Term value="lower() function" definition="In Python, the lower() function is used to convert all characters in a string into lowercase." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="216408927">
+                <value>
+                  <list>
+                    <Term value="Storing Functions as a Variable Value" definition="You can store a reference to a function as a value to a variable, allowing you to call the function through the variable." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="284492507">
+                <value>
+                  <list>
+                    <Term value="conditionals" definition="Conditionals in Python are used to check a condition and execute specific lines of code based on whether the condition is true or false." />
+                    <Term value="else keyword" definition="The else keyword in Python defines a block of code that will execute if the condition checked in the if statement is false." />
+                    <Term value="Python Indentation" definition="Python uses indentation to denote hierarchical relationships between lines of code, such as parent and child lines." />
+                    <Term value="Comparator Operators" definition="Python comparator operators include &gt; (greater than), &lt; (less than), &gt;= (greater than or equal to), &lt;= (less than or equal to), == (equal to), and != (not equal to)." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="342841397">
+                <value>
+                  <list>
+                    <Term value="logical operators" definition="Logical operators like 'and', 'or', and 'not' are used in programming to combine or modify conditions for decision-making." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="367561985">
+                <value>
+                  <list>
+                    <Term value="sum()" definition="sum() is a built-in Python function that calculates the total sum of all elements in a given iterable, such as a list." />
+                    <Term value="max()" definition="max() is a built-in Python function that returns the largest item in an iterable or the largest of two or more arguments." />
+                    <Term value="min()" definition="min() is a built-in Python function that returns the smallest item in an iterable or the smallest of two or more arguments." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="392892348">
+                <value>
+                  <list>
+                    <Term value="lower() function" definition="The lower() function in Python converts all uppercase characters in a string to lowercase." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="476425553">
+                <value>
+                  <list>
+                    <Term value="deal_card()" definition="A function that uses a predefined list of cards to return a random card. The list includes values where an Ace is represented as 11." />
+                    <Term value="calculate_score()" definition="A function that takes a List of cards as input and returns the sum of all the cards as the total score. It also checks for specific conditions like blackjack or adjusting the Ace value." />
+                    <Term value="compare()" definition="A function that compares the user's score and computer's score to determine the winner or if it's a draw, while handling special cases like blackjack or exceeding 21." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="481990002">
+                <value>
+                  <list>
+                    <Term value="global constants" definition="Global constants are values defined in a code file for easy access, which are meant to be set once and not modified." />
+                    <Term value="Global constants" definition="Global constants are values defined in a code file for easy access, which are meant to be set once and not modified." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="526466484">
+                <value>
+                  <list>
+                    <Term value="TypeError" definition="These errors occur when you are using the wrong data type, such as passing an Integer to a function that expects a String." />
+                    <Term value="type()" definition="In Python, the type() function is used to check the data type of any value or variable." />
+                    <Term value="Type Conversion" definition="It refers to converting data into different data types using functions like float(), int(), or str()." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="627596553">
+                <value>
+                  <list>
+                    <Term value="not in keywords" definition="The 'not in' keyword is used in Python to check if an element does not exist in a sequence like a list, string, or other iterable." />
+                    <Term value="ASCII art" definition="ASCII art is a graphical design technique that uses printable characters from the ASCII standard to create images and designs." />
+                    <Term value="lives" definition="In the context of this game, 'lives' is a variable that keeps track of the number of chances left for a user before the game ends." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="636283032">
+                <value>
+                  <list>
+                    <Term value="Variables" definition="In programming, a variable is a concept that allows us to give a label to a piece of data so that we can reference that data using the chosen variable name." />
+                    <Term value="variable" definition="In programming, a variable is a concept that allows us to give a label to a piece of data so that we can reference that data using the chosen variable name." />
+                    <Term value="variables" definition="In programming, a variable is a concept that allows us to give a label to a piece of data so that we can reference that data using the chosen variable name." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="796392606">
+                <value>
+                  <list>
+                    <Term value="return statement" definition="The return statement is used to give back a value from a function, which can be used later." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="915669702">
+                <value>
+                  <list>
+                    <Term value="decrypt()" definition="A function that takes `original_text` and `shift_amount` as two inputs and decrypts the text by shifting each letter of the `original_text` backwards in the alphabet by the given `shift_amount`." />
+                    <Term value="caesar()" definition="A combined function for both encryption and decryption, using the `direction` variable to determine whether to encrypt or decrypt the text. It takes `direction`, `text`, and `shift` as parameters." />
+                    <Term value="shift_amount" definition="An integer that determines how many positions each letter in the text should be shifted either forwards or backwards in the alphabet." />
+                    <Term value="direction" definition="A variable that indicates whether to perform encryption (encode) or decryption (decode) in the `caesar()` function." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="925561270">
+                <value>
+                  <list>
+                    <Term value="Nesting a List inside a Dictionary" definition="A technique where a List replaces a String value assigned to a key within a Dictionary, allowing for more complex data structures." />
+                    <Term value="Nesting Lists inside other Lists" definition="A technique where a List is nested within another List, enabling hierarchical or multidimensional data representation." />
+                    <Term value="Nesting a Dictionary inside a Dictionary" definition="A technique where a Dictionary itself becomes the value of a key within another Dictionary, providing deep data nesting capabilities." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="997111556">
+                <value>
+                  <list>
+                    <Term value="Assignment Operators" definition="Assignment operators such as +=, -=, *=, /=, modify the value of a variable by performing an operation (addition, subtraction, multiplication, division) and then assigning the result back to the variable." />
+                    <Term value="Assignment operators" definition="Assignment operators such as +=, -=, *=, /=, modify the value of a variable by performing an operation (addition, subtraction, multiplication, division) and then assigning the result back to the variable." />
+                    <Term value="assignment operator" definition="Assignment operators such as +=, -=, *=, /=, modify the value of a variable by performing an operation (addition, subtraction, multiplication, division) and then assigning the result back to the variable." />
+                    <Term value="f-Strings" definition="In Python, f-strings allow insertion of a variable or expression directly into a string for formatting purposes." />
+                    <Term value="f-strings" definition="In Python, f-strings allow insertion of a variable or expression directly into a string for formatting purposes." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1044169934">
+                <value>
+                  <list>
+                    <Term value="while loop" definition="A while loop is a control flow statement in programming that repeats a block of code as long as a given condition evaluates to True." />
+                    <Term value="in keyword" definition="The in keyword is used in Python to check if a specified value exists within a list, tuple, range, string, or other iterable objects." />
+                    <Term value="for loop" definition="A for loop is a control flow statement for iterating over a sequence such as a list, tuple, string, or range in Python." />
+                    <Term value="elif" definition="The elif keyword in Python is used in conditional statements to check for multiple expressions after an if statement." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1199998776">
+                <value>
+                  <list>
+                    <Term value="word_list" definition="In the context of the hangman game, `word_list` refers to an external list of possible words that can be used for the game. It is imported from the hangman_words.py file." />
+                    <Term value="stages" definition="In the hangman game, `stages` refers to the visual representation of the hangman. These are imported from hangman_art.py." />
+                    <Term value="logo" definition="`logo` is a graphical or textual representation shown at the start of the game, imported from the hangman_art.py file." />
+                    <Term value="life" definition="In the hangman game, `lives` represent the number of incorrect guesses a player can make before losing the game." />
+                    <Term value="lives" definition="In the hangman game, `lives` represent the number of incorrect guesses a player can make before losing the game." />
+                    <Term value="LIVES" definition="In the hangman game, `lives` represent the number of incorrect guesses a player can make before losing the game." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1206289300">
+                <value>
+                  <list>
+                    <Term value="range() function" definition="The range() function in Python generates a sequence of numbers, which can be used to iterate over a loop a specific number of times." />
+                    <Term value="for loop" definition="A for loop in Python is used to iterate over a sequence (like a list, tuple, string, or range) and execute a block of code for each item in the sequence." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1277708657">
+                <value>
+                  <list>
+                    <Term value="block scope" definition="Block scope means that variables created within a block of code (e.g., within for loops, if statements) are only accessible within that block." />
+                    <Term value="function scope" definition="Function scope means that variables defined within a function are only accessible within that function." />
+                    <Term value="global scope" definition="Global scope means that variables declared outside of any function are accessible throughout the entire program." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1298813328">
+                <value>
+                  <list>
+                    <Term value="try/except block" definition="In Python, try/except block is used to catch and handle exceptions. The 'try' block contains the code that might raise an exception, and the 'except' block defines how to handle specific exceptions to prevent the program from crashing." />
+                    <Term value="TypeError" definition="TypeError occurs in Python when an operation or function is applied to an object of inappropriate type, such as mixing integers and strings in a comparison." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1307993871">
+                <value>
+                  <list>
+                    <Term value="Breakpoint" definition="In most IDEs, a Breakpoint is a specific line in the code where the program pauses during debugging to allow inspection of code execution and variables." />
+                    <Term value="breakpoint" definition="In most IDEs, a Breakpoint is a specific line in the code where the program pauses during debugging to allow inspection of code execution and variables." />
+                    <Term value="Step Over" definition="Step Over is a debugger feature that executes code line by line, displaying intermediate variable values at each step." />
+                    <Term value="Step Into" definition="Step Into is a debugger feature that allows navigation into other modules or functions referenced in the code to analyze their execution." />
+                    <Term value="Step Into My Code" definition="Step Into My Code is a debugger feature similar to Step Into, but it focuses exclusively on project-specific code and skips over library code." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1336938375">
+                <value>
+                  <list>
+                    <Term value="Conditional Returns" definition="Conditional Returns allow a function to return different values or take different execution paths based on conditional checks." />
+                    <Term value="Empty Returns" definition="An Empty Return is a return statement without any value, used to exit a function without returning anything." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1517941988">
+                <value>
+                  <list>
+                    <Term value="Python For Loop" definition="The Python For Loop allows iterating over a sequence, such as a list, tuple, or range of numbers." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1521411200">
+                <value>
+                  <list>
+                    <Term value="String Concatenation" definition="String Concatenation is the process of combining strings with variables, often using the '+' operator." />
+                    <Term value="\n" definition="In Python, \n is used to add a new line to a string." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1592611158">
+                <value>
+                  <list>
+                    <Term value="modulo operator" definition="The modulo operator gives you the remainder of a division." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1639961942">
+                <value>
+                  <list>
+                    <Term value="Nested conditionals" definition="Nested conditionals occur when if/else statements are placed inside other if/else statements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1730117572">
+                <value>
+                  <list>
+                    <Term value="string concatenation" definition="In Python, string concatenation is the process of combining multiple strings into one using the '+' operator." />
+                    <Term value="new line escape sequence" definition="In Python, the '\n' escape sequence is used to insert a new line in a string." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1791388063">
+                <value>
+                  <list>
+                    <Term value="PEMDAS" definition="PEMDAS stands for Parentheses, Exponents, Multiplication/Division, Addition/Subtraction, representing the order of operations in mathematics." />
+                    <Term value="basic mathematical operators" definition="Basic mathematical operators include + (addition), - (subtraction), * (multiplication), / (division), // (floor division), and ** (exponentiation)." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1820122666">
+                <value>
+                  <list>
+                    <Term value="random.choice()" definition="random.choice() is a Python function used to select a random item from a list or any sequence." />
+                    <Term value="random module" definition="A Python module that provides functions to generate random numbers and perform random operations like random choice and shuffle." />
+                    <Term value="Google" definition="Google is an essential tool for programmers, often used to find functions, solutions, and information about programming challenges." />
+                    <Term value="googling" definition="Google is an essential tool for programmers, often used to find functions, solutions, and information about programming challenges." />
+                    <Term value="lists" definition="In Python, a List is a collection data type that is ordered, mutable, and allows duplicate elements." />
+                    <Term value="List" definition="In Python, a List is a collection data type that is ordered, mutable, and allows duplicate elements." />
+                    <Term value="shuffle" definition="shuffle is a function in Python's random module used to randomly rearrange elements in a list." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1825435284">
+                <value>
+                  <list>
+                    <Term value="functions" definition="A function packages code into a named block which can be reused repeatedly at a later point." />
+                    <Term value="function" definition="A function packages code into a named block which can be reused repeatedly at a later point." />
+                    <Term value="parameter" definition="The name of the input variable defined in a function, such as 'name' in `def greet(name):`." />
+                    <Term value="argument" definition="The actual value passed to a function's parameter when calling the function, such as 'Angela' in `greet(&quot;Angela&quot;)`." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1902731480">
+                <value>
+                  <list>
+                    <Term value="Local Scope" definition="Variables or functions declared inside functions have local scope, meaning they are only accessible within the same block of code." />
+                    <Term value="local scope" definition="Variables or functions declared inside functions have local scope, meaning they are only accessible within the same block of code." />
+                    <Term value="Global Scope" definition="Variables or functions declared at the top level of a code file have global scope and are accessible anywhere in the code file." />
+                    <Term value="global scope" definition="Variables or functions declared at the top level of a code file have global scope and are accessible anywhere in the code file." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1977144334">
+                <value>
+                  <list>
+                    <Term value="int() function" definition="The int() function is used in Python to convert a string or other data type into an integer." />
+                    <Term value="dictionary" definition="A dictionary in Python is a collection of key-value pairs, used for storing and accessing data efficiently." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2019991323">
+                <value>
+                  <list>
+                    <Term value="Caesar cipher" definition="A technique for encryption and decryption that shifts each letter of the plaintext by a specified amount in the alphabet." />
+                    <Term value="modulo" definition="A mathematical operation that returns the remainder of a division operation. It can be used to wrap around values within a defined range." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2088487643">
+                <value>
+                  <list>
+                    <Term value="Documenting Functions" definition="Documenting Functions involves using docstrings just below a function definition to describe its purpose, which can be displayed when hovering over the function call." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2107013760">
+                <value>
+                  <list>
+                    <Term value="global keyword" definition="The global keyword in Python is used to declare a variable as global, allowing it to be modified inside a function." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="40" />
+      </map>
+    </termsVersions>
+  </component>
+</project>
