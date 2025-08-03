@@ -25,7 +25,7 @@ if user_bet:
             distance=random.randint(0,10)
             turtle.forward(distance)
 
-            if turtle.xcor()>200:
+            if turtle.xcor()>230:
                 race_on=False
                 winning_color=turtle.pencolor()
 

@@ -1,5 +1,3 @@
-from idlelib.configdialog import changes
-
 MENU = {
     "espresso": {
         "ingredients": {
